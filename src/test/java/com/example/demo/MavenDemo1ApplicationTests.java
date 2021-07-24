@@ -9,5 +9,7 @@ class MavenDemo1ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+String abc(){
+}
 
 }
